@@ -1,13 +1,9 @@
 package main
 
 import (
-	"fmt"
-
-	"github.com/zkfmapf123/recur"
+	"github.com/zkfmapf123/search"
 )
 
 func main(){
-	n := recur.Fibo(5)
-
-	fmt.Println(n)
+	search.FindNumByHashMap()
 }

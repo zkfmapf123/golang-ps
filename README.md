@@ -13,8 +13,8 @@
 
 ### Recursive...
 
-- [ ] Recursive
-- [ ] Tail Recursive
+- [x] Recursive
+- [x] Tail Recursive
 
 ### Sort...
 

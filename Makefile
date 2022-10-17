@@ -6,3 +6,6 @@ test-collections:
 	
 test-recur:
 	go test ./recur
+
+test-search:
+	go test ./search
